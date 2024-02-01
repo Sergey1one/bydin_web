@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bydin_web/static/css/main.7acaea2f.css",
+    "main.js": "/bydin_web/static/js/main.a527468c.js",
+    "index.html": "/bydin_web/index.html",
+    "main.7acaea2f.css.map": "/bydin_web/static/css/main.7acaea2f.css.map",
+    "main.a527468c.js.map": "/bydin_web/static/js/main.a527468c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a527468c.js"
+  ]
+}
